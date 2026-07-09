@@ -3,7 +3,7 @@
 A premium, feature-rich language translation web application built with a modern glassmorphism design. Translate, listen, and copy text instantly in over 100+ languages.
 
 ## 🚀 Live Server
-The application runs locally at [http://localhost:8080](http://localhost:8080) when served.
+The application runs on bharat-translator.netlify.app when served.
 
 ## ✨ Features
 *   **🌐 100+ Languages Support** - Powered by the MyMemory API (free, no API key required).
